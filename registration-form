@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/json+oembed" href="https://www.jotform.com/oembed/?format=json&amp;url=http%3A%2F%2Fwww.jotform.com%2Fform%2F60484257532457" title="oEmbed Form"><link rel="alternate" type="text/xml+oembed" href="https://www.jotform.com/oembed/?format=xml&amp;url=http%3A%2F%2Fwww.jotform.com%2Fform%2F60484257532457" title="oEmbed Form">
+<meta property="og:title" content="Competition Entry Form" >
+<meta property="og:url" content="http://www.jotform.me/form/60484257532457" >
+<meta property="og:description" content="Please click the link to complete this form.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="HandheldFriendly" content="true" />
+<title>e-Resources Sign Up</title>
+<link href="https://cdn.jotfor.ms/static/formCss.css?3.3.11441" rel="stylesheet" type="text/css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.11441" />
+<link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.11441" />
+<style type="text/css">
+    .form-label-left{
+        width:150px !important;
+    }
+    .form-line{
+        padding-top:12px;
+        padding-bottom:12px;
+    }
+    .form-label-right{
+        width:150px !important;
+    }
+    body, html{
+        margin:0;
+        padding:0;
+        background:false;
+    }
+
+    .form-all{
+        margin:0px auto;
+        padding-top:0px;
+        width:625px;
+        color:#555 !important;
+        font-family:'Lucida Grande',' Lucida Sans Unicode',' Lucida Sans',' Verdana',' Tahoma',' sans-serif';
+        font-size:14px;
+    }
+</style>
+
+<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/buttons/form-submit-button-black_blue.css?3.3.11441"/>
+<script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.11441" type="text/javascript"></script>
+<script type="text/javascript">
+   JotForm.init(function(){
+	JotForm.clearFieldOnHide="disable";
+	JotForm.onSubmissionError="jumpToSubmit";
+   });
+</script>
+</head>
+<body>
+<form class="jotform-form" action="https://submit.jotform.me/submit/60484257532457/" method="post" name="form_60484257532457" id="60484257532457" accept-charset="utf-8">
+  <input type="hidden" name="formID" value="60484257532457" />
+  <div class="form-all">
+    <ul class="form-section page-section">
+      <li id="cid_35" class="form-input-wide" data-type="control_head">
+        <div class="form-header-group">
+          <div class="header-text httal htvam">
+            <h1 id="header_35" class="form-header">
+              Sign Up
+            </h1>
+            <div id="subHeader_35" class="form-subHeader">
+              Please complete the form below to register
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_fullname" id="id_45">
+        <label class="form-label form-label-left form-label-auto" id="label_45" for="input_45">
+          Full Name
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_45" class="form-input jf-required">
+          <span class="form-sub-label-container" style="vertical-align: top">
+            <input class="form-textbox validate[required]" type="text" size="16" name="q45_fullName45[first]" id="first_45" />
+            <label class="form-sub-label" for="first_45" id="sublabel_first" style="min-height: 13px;"> First Name </label>
+          </span>
+          <span class="form-sub-label-container" style="vertical-align: top">
+            <input class="form-textbox validate[required]" type="text" size="16" name="q45_fullName45[last]" id="last_45" />
+            <label class="form-sub-label" for="last_45" id="sublabel_last" style="min-height: 13px;"> Last Name </label>
+          </span>
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_textbox" id="id_11">
+        <label class="form-label form-label-left form-label-auto" id="label_11" for="input_11">
+          Roll No.
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_11" class="form-input jf-required">
+          <input type="text" class=" form-textbox validate[required]" data-type="input-textbox" id="input_11" name="q11_rollNo" size="40" value="" maxlength="100" />
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_textbox" id="id_12">
+        <label class="form-label form-label-left form-label-auto" id="label_12" for="input_12">
+          Admission No.
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_12" class="form-input jf-required">
+          <input type="text" class=" form-textbox validate[required]" data-type="input-textbox" id="input_12" name="q12_admissionNo" size="40" value="" maxlength="100" />
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_textbox" id="id_2">
+        <label class="form-label form-label-left form-label-auto" id="label_2" for="input_2">
+          E-mail
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_2" class="form-input jf-required">
+          <input type="text" class=" form-textbox validate[required, Email]" data-type="input-textbox" id="input_2" name="q2_email2" size="40" value="" maxlength="100" />
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_textbox" id="id_42">
+        <label class="form-label form-label-left form-label-auto" id="label_42" for="input_42">
+          Password
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_42" class="form-input jf-required">
+          <input type="password" class=" form-textbox validate[required]" data-type="input-textbox" id="input_42" name="q42_password" size="40" value="" maxlength="100" />
+        </div>
+      </li>
+      <li class="form-line jf-required" data-type="control_textbox" id="id_46">
+        <label class="form-label form-label-left form-label-auto" id="label_46" for="input_46">
+          Confirm Password
+          <span class="form-required">
+            *
+          </span>
+        </label>
+        <div id="cid_46" class="form-input jf-required">
+          <input type="password" class=" form-textbox validate[required]" data-type="input-textbox" id="input_46" name="q46_confirmPassword" size="40" value="" maxlength="100" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_button" id="id_8">
+        <div id="cid_8" class="form-input-wide">
+          <div style="margin-left:156px" class="form-buttons-wrapper">
+            <button id="input_8" type="submit" class="form-submit-button form-submit-button-black_blue">
+              Submit
+            </button>
+          </div>
+        </div>
+      </li>
+      <li style="display:none">
+        Should be Empty:
+        <input type="text" name="website" value="" />
+      </li>
+    </ul>
+  </div>
+  <input type="hidden" id="simple_spc" name="simple_spc" value="60484257532457" />
+  <script type="text/javascript">
+  document.getElementById("si" + "mple" + "_spc").value = "60484257532457-60484257532457";
+  </script>
+</form></body>
+</html>
